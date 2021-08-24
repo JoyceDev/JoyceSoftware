@@ -1,5 +1,5 @@
 spec:
-  name: wave
+  name: JoyceSoftware
   services:
   - name: web
     git:
